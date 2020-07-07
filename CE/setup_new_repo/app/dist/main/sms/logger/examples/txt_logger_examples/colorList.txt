@@ -1,0 +1,3 @@
+color1: Blue
+color2: Green
+color3: Dark Red
