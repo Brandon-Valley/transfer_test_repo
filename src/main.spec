@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['main.py'],
-             pathex=['C:\\projects\\pg\\transfer_test_repo\\src'],
+             pathex=['C:\\Users\\Brandon\\Documents\\Personal_Projects\\transfer_test_repo\\src'],
              binaries=[],
              datas=[],
              hiddenimports=[],
